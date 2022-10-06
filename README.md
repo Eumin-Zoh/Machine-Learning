@@ -1,8 +1,8 @@
 # Machine-Learning
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MLProjects&fontSize=90" />
-##  🍎 iOS 커리큘럼
+##  Some projects I did
 
-| Week | 세미나 | 과제 |커리큘럼 내용 |
+| Project Name | Supervised Learning | Unsupervised Learning | Machine Learning |
 | ------ | -- | -- |----------- |
 | 1주차 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
 | 2주차 | ☑️ | ☑️ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
