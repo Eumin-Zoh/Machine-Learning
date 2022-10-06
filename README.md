@@ -4,8 +4,8 @@
 
 | Project Name | Supervised Learning | Unsupervised Learning | Machine Learning |
 | ------ | -- | -- |----------- |
-| 1주차 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
-| 2주차 | ☑️ | ☑️ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
+| CIA Country Clustering |  | ☑️ | KMeans |
+| Heart Disease | ☑️ |  | Logistic Regression |
 | 3주차 | ☑️ | ☑️ | TableView, CollectionView, 데이터 전달 방식 |
 | 4주차 | ☑️ | ☑️ | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
 | 5주차 |  |  |디자인 합동 세미나 |
